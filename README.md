@@ -4,7 +4,7 @@ This project is the simpler implementation of [Real-ESRGAN-ncnn-vulkan](https://
 
 This repo was made for easier implementation and for helping users to understand [Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan#computer-usages) 
 
-Make sure to show them support by ⭐ repo
+Make sure to show support by ⭐ repo
 
 ### Deploy
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BLINK-SG/4K-Video-Converter/blob/main/4K%20Video%20Collab%20Render.ipynb)
