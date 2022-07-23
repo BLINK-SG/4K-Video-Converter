@@ -16,9 +16,9 @@ this repo was made for easier implementation and for helping users to understand
  * `ブリンク 💫#4544` : <https://discord.gg/B86HAzkRuD>
 
 
-##Project owner
+## Project owner
 
    Xintao Wang and Liangbin Xie and Chao Dong and Ying Shan
 
 
-### End
+
