@@ -18,9 +18,6 @@ Make sure to show support by ⭐ repo
  * `ブリンク 💫#4544` : <https://discord.gg/B86HAzkRuD>
 
 
-## Project owner
-
-   Xintao Wang and Liangbin Xie and Chao Dong and Ying Shan
 
 
 
