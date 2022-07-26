@@ -6,8 +6,17 @@ This repo was made for easier implementation and for helping users to understand
 
 Make sure to show support by ⭐ repo
 
-### Deploy
+# Deploy
+
+## Normal
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BLINK-SG/4K-Video-Converter/blob/main/4K%20Video%20Collab%20Render.ipynb)
+
+## Google Drive Supported ( Updated )
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BLINK-SG/4K-Video-Converter/blob/main/4K%20Video%20Collab%20Render.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BLINK-SG/4K Vide Render Drive_HD.ipynb
 
 
 ## Links
