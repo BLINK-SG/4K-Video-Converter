@@ -16,7 +16,7 @@ Make sure to show support by ⭐ repo
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BLINK-SG/4K-Video-Converter/blob/main/4K%20Video%20Collab%20Render.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BLINK-SG/4K Vide Render Drive_HD.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BLINK-SG/4K Vide Render Drive_HD.ipynb)
 
 
 ## Links
