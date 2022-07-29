@@ -1,9 +1,8 @@
 # 4K-Video-Converter
 
-This project is the simpler implementation of [Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan#computer-usages) all credit of work goes to them check [Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan#computer-usages) repo 
+This project is the simpler implementation of [Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan#computer-usages)
 
-This repo was made for easier implementation and for helping users to understand [Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan#computer-usages) 
-
+This repo was made for easier implementation and for helping users to understand Real-ESRGAN-ncnn-vulkan
 Make sure to show support by ⭐ repo
 
 # Deploy
