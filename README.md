@@ -20,7 +20,7 @@ Make sure to show support by ⭐ repo
 
 ## Links
 
-* If you have any question, please join [Discord](https://discord.gg/B86HAzkRuD)
+*  [Discord](https://discord.gg/B86HAzkRuD)
 
 
  * `ブリンク 💫#4544` : <https://discord.gg/B86HAzkRuD>
